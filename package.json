@@ -14,7 +14,6 @@
   "engines": {
     "vscode": "^1.83.0"
   },
-  "icon": "icon.PNG",
   "keywords": [
     "dark",
     "theme",
