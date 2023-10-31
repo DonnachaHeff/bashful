@@ -20,3 +20,5 @@ Run Visual Studio Code. The Bashful Theme will be available from ` File -> Prefe
 ## License
 
 [MIT License](./LICENSE)
+
+Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com

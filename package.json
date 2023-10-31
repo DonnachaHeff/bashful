@@ -2,7 +2,7 @@
   "name": "bashful",
   "displayName": "Bashful Theme",
   "description": "A dark theme named bashful",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "donnachaheff",
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
     "color-theme",
     "bashful"
   ],
+  "icon": "matryoshka-doll.png",
   "galleryBanner": {
     "color": "#3c4557",
     "theme": "dark"
