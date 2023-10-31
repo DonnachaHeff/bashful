@@ -1,15 +1,29 @@
 {
   "name": "bashful",
   "displayName": "bashful",
-  "description": "A Dark theme inspired by one of the seven dwarfs",
+  "description": "Official bashful Theme. A Dark theme for Visual Studio Code",
   "version": "0.0.1",
   "publisher": "donnachaheff",
   "repository": {
     "type": "git",
     "url": "https://github.com/DonnachaHeff/bashful"
   },
+  "bugs": {
+    "url": "https://github.com/DonnachaHeff/bashful/issues"
+  },
   "engines": {
     "vscode": "^1.83.0"
+  },
+  "icon": "icon.PNG",
+  "keywords": [
+    "dark",
+    "theme",
+    "color-theme",
+    "bashful"
+  ],
+  "galleryBanner": {
+    "color": "#3c4557",
+    "theme": "dark"
   },
   "categories": [
     "Themes"
