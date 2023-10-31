@@ -3,6 +3,7 @@
   "displayName": "bashful",
   "description": "A Dark theme inspired by one of the seven dwarfs",
   "version": "0.0.1",
+  "publisher": "donnachaheff",
   "repository": {
     "type": "git",
     "url": "https://github.com/DonnachaHeff/bashful"
