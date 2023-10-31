@@ -1,8 +1,8 @@
 {
   "name": "bashful",
-  "displayName": "bashful",
-  "description": "Official bashful Theme. A Dark theme for Visual Studio Code",
-  "version": "0.0.4",
+  "displayName": "Bashful Theme",
+  "description": "A dark theme named bashful",
+  "version": "0.0.5",
   "publisher": "donnachaheff",
   "repository": {
     "type": "git",
